@@ -1,2 +1,2 @@
 # Assistant
-Personalized voice assistant
+Personalized voice assistant OK
